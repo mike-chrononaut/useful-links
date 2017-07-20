@@ -22,6 +22,10 @@
 - [Pro GIT](https://git-scm.com/book/ru/v2) - good book about GIT. 
 - [Try Git: Git Tutorial](https://try.github.io) - interactive tutorial to learn basic GIT commands 
 - [Learn Git Branching](http://learngitbranching.js.org/) - interactive tutorial to learn more advanced GIT commands
+- [GitHowTo](https://githowto.com/ru) - guided tour
+- [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - GIT tutorial from Atlassian
+- [Git - Tutorial - Vogella](http://www.vogella.com/tutorials/Git/article.html) - good one-page guide to GIT
+- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - another one-page guide to basic GIT commands
 
 ## Java
 
