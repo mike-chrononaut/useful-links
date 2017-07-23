@@ -28,6 +28,10 @@
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - another one-page guide to basic GIT commands
 
 ## Java
+### Core
+- [Онлайн уроки по Java](https://www.youtube.com/user/ytkach/playlists)
+- [Разработка на JAVA](https://www.youtube.com/playlist?list=PLrCZzMib1e9qUdn_LEm96Oee3RVb9Qmr_)
+- [JAVA](https://www.youtube.com/playlist?list=PLrCZzMib1e9qkzxEuU_huxtSAxrW1t9NZ)
 
 ## PL/SQL
 
