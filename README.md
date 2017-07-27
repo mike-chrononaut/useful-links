@@ -32,6 +32,7 @@
 - [Онлайн уроки по Java](https://www.youtube.com/user/ytkach/playlists)
 - [Разработка на JAVA](https://www.youtube.com/playlist?list=PLrCZzMib1e9qUdn_LEm96Oee3RVb9Qmr_)
 - [JAVA](https://www.youtube.com/playlist?list=PLrCZzMib1e9qkzxEuU_huxtSAxrW1t9NZ)
+- [The Java™ Tutorials - Oracle Help Center](https://docs.oracle.com/javase/tutorial/) - Java SE tutorials from Oracle
 
 ## PL/SQL
 
