@@ -36,3 +36,6 @@
 
 ## PL/SQL
 
+## Design patterns
+- [Design Patterns](https://sourcemaking.com/design_patterns) - good place to read about different design patterns
+
