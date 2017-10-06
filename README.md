@@ -34,6 +34,16 @@
 - [JAVA](https://www.youtube.com/playlist?list=PLrCZzMib1e9qkzxEuU_huxtSAxrW1t9NZ)
 - [The Java™ Tutorials - Oracle Help Center](https://docs.oracle.com/javase/tutorial/) - Java SE tutorials from Oracle
 
+# Spring
+- [Spring tutorial](https://www.tutorialspoint.com/spring/) - tutorial for beginners
+- [Spring Guides](https://spring.io/guides) - official Spring guides
+- [Sping tutorial](https://www.javatpoint.com/spring-tutorial) - another tutorial for beginners
+- [Spring tutorial](https://www.journaldev.com/spring) - diiferent parts of Spring + examples
+- [Getting Started With Spring Framework](https://www.edureka.co/blog/spring-tutorial/) - introductory article to Spring
+- [Spring Tutorial](http://www.mkyong.com/tutorials/spring-tutorials/) - good Spring tutorial with many examples
+- [Spring Tutorial](http://www.wideskills.com/spring-tutorial) - good one-page tutorial
+- [Spring Tutorial- Learn Spring Core Framework Steps](https://www.dineshonjava.com/spring-tutorial/) - different parts of Spring with examples
+
 ## PL/SQL
 
 ## Design patterns
