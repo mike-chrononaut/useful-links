@@ -54,3 +54,10 @@
 ## Game Development
 ### Different screens
 - [Official Android tutorial](https://developer.android.com/guide/practices/screens_support.html)
+- [PPI/DPI information online](http://dpi.lv/)
+- [PPI/DPI information online №2](http://pxcalc.com/)
+- [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+- [Exporting Images for Different Platforms & Screen Densities](https://sympli.io/blog/2016/09/01/exporting-images-for-different-platforms-and-screen-densities/)
+- [How to create mobile games for different screen sizes and resolutions](https://v-play.net/doc/vplay-different-screen-sizes/)
+- [Tutorial to handle multiple screen sizes in Android - Part one](http://blog.gemserk.com/2013/01/22/our-solution-to-handle-multiple-screen-sizes-in-android-part-one/)
+- [Tutorial to handle multiple screen sizes in Android - Part two](http://blog.gemserk.com/2013/02/13/our-solution-to-handle-multiple-screen-sizes-in-android-part-two/)
