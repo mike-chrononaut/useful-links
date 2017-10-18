@@ -17,6 +17,8 @@
   - [Gradle](#gradle)
 - [Design patterns](#design-patterns)
 - [Algorithms and Data structures](#algorithms-and-data-structures)
+- [Game Development](#game-development)
+  - [Different screens](#different-screens)
 
 ## GIT
 - [Pro GIT](https://git-scm.com/book/ru/v2) - good book about GIT. 
@@ -49,3 +51,6 @@
 ## Design patterns
 - [Design Patterns](https://sourcemaking.com/design_patterns) - good place to read about different design patterns
 
+## Game Development
+### Different screens
+- [Official Android tutorial](https://developer.android.com/guide/practices/screens_support.html)
