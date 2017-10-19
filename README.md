@@ -19,6 +19,7 @@
 - [Algorithms and Data structures](#algorithms-and-data-structures)
 - [Game Development](#game-development)
   - [Different screens](#different-screens)
+  - [Optimisation](#optimisation)
 
 ## GIT
 - [Pro GIT](https://git-scm.com/book/ru/v2) - good book about GIT. 
@@ -61,3 +62,6 @@
 - [How to create mobile games for different screen sizes and resolutions](https://v-play.net/doc/vplay-different-screen-sizes/)
 - [Tutorial to handle multiple screen sizes in Android - Part one](http://blog.gemserk.com/2013/01/22/our-solution-to-handle-multiple-screen-sizes-in-android-part-one/)
 - [Tutorial to handle multiple screen sizes in Android - Part two](http://blog.gemserk.com/2013/02/13/our-solution-to-handle-multiple-screen-sizes-in-android-part-two/)
+### Optimisation
+- [Optimising your Android game](http://magory.net/optimising-your-android-game/)
+- [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
