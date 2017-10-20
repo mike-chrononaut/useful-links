@@ -19,6 +19,7 @@
 - [Algorithms and Data structures](#algorithms-and-data-structures)
 - [Game Development](#game-development)
   - [Different screens](#different-screens)
+  - [Different image formats](#different-image-formats)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -62,6 +63,14 @@
 - [How to create mobile games for different screen sizes and resolutions](https://v-play.net/doc/vplay-different-screen-sizes/)
 - [Tutorial to handle multiple screen sizes in Android - Part one](http://blog.gemserk.com/2013/01/22/our-solution-to-handle-multiple-screen-sizes-in-android-part-one/)
 - [Tutorial to handle multiple screen sizes in Android - Part two](http://blog.gemserk.com/2013/02/13/our-solution-to-handle-multiple-screen-sizes-in-android-part-two/)
+### Different image formats
+- [How to move from PNG to GPU textures on Android](http://mainroach.blogspot.ru/2014/03/the-png-vs-gpu-battle-on-android.html)
+- [Сжатие текстур в Android: сравнение форматов](https://habrahabr.ru/company/intel/blog/276089/)
+- [Android Texture compression support](https://developer.android.com/guide/topics/graphics/opengl.html#textures)
+- [Phaser compressed textures](https://phaser.io/tutorials/advanced-rendering-tutorial/part6)
+- [Brothers: A Tale of Two Sons Android Instructions](https://support.humblebundle.com/hc/en-us/articles/115003664707-Brothers-A-Tale-of-Two-Sons-Android-Instructions)
+- [Using ASTC Texture Compression for Game Assets](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
+- [Texture compression formats for platform-specific overrides](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
