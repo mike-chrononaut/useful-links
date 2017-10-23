@@ -63,6 +63,7 @@
 - [How to create mobile games for different screen sizes and resolutions](https://v-play.net/doc/vplay-different-screen-sizes/)
 - [Tutorial to handle multiple screen sizes in Android - Part one](http://blog.gemserk.com/2013/01/22/our-solution-to-handle-multiple-screen-sizes-in-android-part-one/)
 - [Tutorial to handle multiple screen sizes in Android - Part two](http://blog.gemserk.com/2013/02/13/our-solution-to-handle-multiple-screen-sizes-in-android-part-two/)
+- [The iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines) - specific for iOS
 ### Different image formats
 - [How to move from PNG to GPU textures on Android](http://mainroach.blogspot.ru/2014/03/the-png-vs-gpu-battle-on-android.html)
 - [Сжатие текстур в Android: сравнение форматов](https://habrahabr.ru/company/intel/blog/276089/)
