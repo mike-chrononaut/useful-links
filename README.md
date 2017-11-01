@@ -20,6 +20,7 @@
 - [Game Development](#game-development)
   - [Different screens](#different-screens)
   - [Different image formats](#different-image-formats)
+  - [Game loop](#game-loop)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -72,6 +73,10 @@
 - [Brothers: A Tale of Two Sons Android Instructions](https://support.humblebundle.com/hc/en-us/articles/115003664707-Brothers-A-Tale-of-Two-Sons-Android-Instructions)
 - [Using ASTC Texture Compression for Game Assets](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
 - [Texture compression formats for platform-specific overrides](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
+### Game loop
+- [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
+- [Game Loop](http://gameprogrammingpatterns.com/game-loop.html)
+- [Fix your timestep in Libgdx and Box2D](http://saltares.com/blog/games/fixing-your-timestep-in-libgdx-and-box2d/)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
