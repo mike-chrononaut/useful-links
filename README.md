@@ -78,6 +78,7 @@
 - [Game Loop](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix your timestep in Libgdx and Box2D](http://saltares.com/blog/games/fixing-your-timestep-in-libgdx-and-box2d/)
 - [Why You Should be Using Time-based Animation and How to Implement it](http://blog.sklambert.com/using-time-based-animation-implement/)
+- [deWiTTERS Game Loop](http://webcache.googleusercontent.com/search?q=cache:n2NJ3L_QXwwJ:www.koonsolo.com/news/dewitters-gameloop/+&cd=1&hl=en&ct=clnk&gl=us)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
