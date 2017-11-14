@@ -21,6 +21,7 @@
   - [Different screens](#different-screens)
   - [Different image formats](#different-image-formats)
   - [Game loop](#game-loop)
+  - [Assets loading](#assets-loading)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -79,6 +80,8 @@
 - [Fix your timestep in Libgdx and Box2D](http://saltares.com/blog/games/fixing-your-timestep-in-libgdx-and-box2d/)
 - [Why You Should be Using Time-based Animation and How to Implement it](http://blog.sklambert.com/using-time-based-animation-implement/)
 - [deWiTTERS Game Loop](http://webcache.googleusercontent.com/search?q=cache:n2NJ3L_QXwwJ:www.koonsolo.com/news/dewitters-gameloop/+&cd=1&hl=en&ct=clnk&gl=us)
+### Assets loading
+- [Managing groups of Assets](http://saltares.com/blog/games/managing-groups-of-assets/)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
