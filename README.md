@@ -23,6 +23,7 @@
   - [Game loop](#game-loop)
   - [Assets loading](#assets-loading)
   - [Shaders](#shaders)
+  - [Texture filters](#texture-filters)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -85,6 +86,8 @@
 - [Managing groups of Assets](http://saltares.com/blog/games/managing-groups-of-assets/)
 ### Shaders
 - [OpenGL & GLSL Tutorials in LWJGL](https://github.com/mattdesl/lwjgl-basics/wiki)
+### Texture filters
+- [Know Your Texture Filters!](http://www.badlogicgames.com/wordpress/?p=1403)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
