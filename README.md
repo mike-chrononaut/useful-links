@@ -24,6 +24,7 @@
   - [Assets loading](#assets-loading)
   - [Shaders](#shaders)
   - [Texture filters](#texture-filters)
+  - [Fonts](#fonts)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -88,6 +89,13 @@
 - [OpenGL & GLSL Tutorials in LWJGL](https://github.com/mattdesl/lwjgl-basics/wiki)
 ### Texture filters
 - [Know Your Texture Filters!](http://www.badlogicgames.com/wordpress/?p=1403)
+### Fonts
+- [libGDX smooth FreeTypeFonts](https://stackoverflow.com/questions/28732448/libgdx-smooth-freetypefonts)
+- [Масштабируемые шрифты в LibGDX](http://alexkorablev.ru/2016/03/14/libgdx-fonts/#.WgxWjVVl_IU)
+- [TrueType шрифты в LibGDX](http://alexkorablev.ru/2016/07/14/libgdx-ttf/#.WgxYOFVl_IU)
+- [Distance Field Font](http://flixel-gdx.com/distance-field-font/)
+- [Signed Distance Fields](http://www.codersnotes.com/notes/signed-distance-fields/)
+- [Font Rendering is Getting Interesting](https://aras-p.info/blog/2017/02/15/Font-Rendering-is-Getting-Interesting/)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
