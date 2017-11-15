@@ -22,6 +22,7 @@
   - [Different image formats](#different-image-formats)
   - [Game loop](#game-loop)
   - [Assets loading](#assets-loading)
+  - [Shaders](#shaders)
   - [Optimisation](#optimisation)
 
 ## GIT
@@ -82,6 +83,8 @@
 - [deWiTTERS Game Loop](http://webcache.googleusercontent.com/search?q=cache:n2NJ3L_QXwwJ:www.koonsolo.com/news/dewitters-gameloop/+&cd=1&hl=en&ct=clnk&gl=us)
 ### Assets loading
 - [Managing groups of Assets](http://saltares.com/blog/games/managing-groups-of-assets/)
+### Shaders
+- [OpenGL & GLSL Tutorials in LWJGL](https://github.com/mattdesl/lwjgl-basics/wiki)
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
