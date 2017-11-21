@@ -26,6 +26,7 @@
   - [Texture filters](#texture-filters)
   - [Fonts](#fonts)
   - [Optimisation](#optimisation)
+  - [Libgdx testing](#libgdx-testing)
 
 ## GIT
 - [Pro GIT](https://git-scm.com/book/ru/v2) - good book about GIT. 
@@ -99,3 +100,10 @@
 ### Optimisation
 - [Optimising your Android game](http://magory.net/optimising-your-android-game/)
 - [libGDX performance tips](http://www.rainware.net/libgdx-performance-tips-what-i-have-learned-so-far/)
+### Libgdx testing
+- [JUnit with libGDX using Gradle](http://shahmirj.com/blog/getting-junit-working-with-libgdx-in-gradle)
+- [Unit Testing Your LibGDX Game](http://manabreak.eu/java/2016/10/21/unittesting-libgdx.html)
+- [gdx-testing](https://github.com/TomGrill/gdx-testing)
+- [Adding JUnit tests to a libGDX game](https://staticdot.com/howto/junit-libgdx)
+- [Adding JUnit to your Libgdx Project](https://neutroniogames.wordpress.com/2017/05/18/adding-junit-to-your-libgdx-project/)
+- [JUnit testing of libGDX game in Android Studio](http://techduke.io/junit-testing-of-libgdx-game-in-android-studio/)
