@@ -112,4 +112,12 @@
 - [JUnit testing of libGDX game in Android Studio](http://techduke.io/junit-testing-of-libgdx-game-in-android-studio/)
 ### Libgdx encryption
 #### Assets encryption
+- [Project Protection](http://www.badlogicgames.com/forum/viewtopic.php?f=15&t=4922)
+- [How to secure your game assets](https://www.scirra.com/tutorials/39/how-to-secure-your-game-assets)
+- [What do you use to bundle / encrypt data?](https://gamedev.stackexchange.com/questions/2098/what-do-you-use-to-bundle-encrypt-data)
 #### Preferences encryption
+- [secure preferences: any good tip?](http://badlogicgames.com/forum/viewtopic.php?f=11&t=12496)
+- [Encrypt game preferences ?](http://badlogicgames.com/forum/viewtopic.php?f=11&t=10205)
+- [LibGDX : Android Game Security](https://stackoverflow.com/questions/33198028/libgdx-android-game-security)
+- [Save and store local highscores, encrypted.](http://badlogicgames.com/forum/viewtopic.php?f=15&t=15381)
+- [Saving data to be unreadable/uneditable by end user](http://badlogicgames.com/forum/viewtopic.php?f=11&t=19904)
