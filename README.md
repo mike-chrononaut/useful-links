@@ -27,6 +27,9 @@
   - [Fonts](#fonts)
   - [Optimisation](#optimisation)
   - [Libgdx testing](#libgdx-testing)
+  - [Libgdx encryption](#libgdx-encryption)
+    - [Assets encryption](#assets-encryption)
+    - [Preferences encryption](#preferences-encryption)
 
 ## GIT
 - [Pro GIT](https://git-scm.com/book/ru/v2) - good book about GIT. 
@@ -107,3 +110,6 @@
 - [Adding JUnit tests to a libGDX game](https://staticdot.com/howto/junit-libgdx)
 - [Adding JUnit to your Libgdx Project](https://neutroniogames.wordpress.com/2017/05/18/adding-junit-to-your-libgdx-project/)
 - [JUnit testing of libGDX game in Android Studio](http://techduke.io/junit-testing-of-libgdx-game-in-android-studio/)
+### Libgdx encryption
+#### Assets encryption
+#### Preferences encryption
