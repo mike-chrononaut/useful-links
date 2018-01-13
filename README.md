@@ -20,6 +20,7 @@
 - [Game Development](#game-development)
   - [Different screens](#different-screens)
   - [Different image formats](#different-image-formats)
+  - [Different things about graphics](#different-things-about-graphics)
   - [Game loop](#game-loop)
   - [Assets loading](#assets-loading)
   - [Shaders](#shaders)
@@ -81,6 +82,10 @@
 - [Brothers: A Tale of Two Sons Android Instructions](https://support.humblebundle.com/hc/en-us/articles/115003664707-Brothers-A-Tale-of-Two-Sons-Android-Instructions)
 - [Using ASTC Texture Compression for Game Assets](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
 - [Texture compression formats for platform-specific overrides](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
+- [PVRTC vs ASTC texture compression on an iOS device](https://gametorrahod.com/pvrtc-vs-astc-texture-compression-on-an-ios-device-38278a2345d)
+### Different things about graphics
+- [Опасайтесь прозрачных пикселей](https://habrahabr.ru/post/328386/)
+- [Texture Packer Tutorial: How to Create and Optimize Sprite Sheets](https://www.raywenderlich.com/32049/texture-packer-tutorial-how-to-create-and-optimize-sprite-sheets-in-cocos2d)
 ### Game loop
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
 - [Game Loop](http://gameprogrammingpatterns.com/game-loop.html)
