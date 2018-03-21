@@ -83,6 +83,7 @@
 - [Using ASTC Texture Compression for Game Assets](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
 - [Texture compression formats for platform-specific overrides](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
 - [PVRTC vs ASTC texture compression on an iOS device](https://gametorrahod.com/pvrtc-vs-astc-texture-compression-on-an-ios-device-38278a2345d)
+- [Efficient Game Textures with Hardware Compression](https://android-developers.googleblog.com/2015/01/efficient-game-textures-with-hardware.html)
 ### Different things about graphics
 - [Опасайтесь прозрачных пикселей](https://habrahabr.ru/post/328386/)
 - [Texture Packer Tutorial: How to Create and Optimize Sprite Sheets](https://www.raywenderlich.com/32049/texture-packer-tutorial-how-to-create-and-optimize-sprite-sheets-in-cocos2d)
